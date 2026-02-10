@@ -8,6 +8,13 @@
       "when": 1770278967973,
       "tag": "0000_odd_exiles",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770716281964,
+      "tag": "0001_parched_zodiak",
+      "breakpoints": true
     }
   ]
 }
